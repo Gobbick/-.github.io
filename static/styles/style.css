@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(27deg, #ff0000 0%, #ffae00 100%);
+}
+
+.container-fluid .navbar-brand {
+    color: rgb(255, 145, 0);
+    font-weight: 700;
+}
+
+.container-fluid .navbar-toggler {
+    color: rgb(0, 4, 228);
+    background-color: rgb(169, 146, 36);
+}
+
+.nav-link {
+    color: rgb(169, 146, 36);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(0, 4, 228);
+}
+
+.card-img-top {
+    width: 200px;
+    height: 200px;
+}
+
+.card {
+    background: linear-gradient(90deg, #e085d8 0%, #cb2053 100%);
+    color: rgb(22, 26, 92);
+}
+
+.w-100 {
+    background-color: aquamarine;
+    width: 600px;
+    height: 400px;
+}
+
+.text-form {
+    font-weight: 1000;
+}
